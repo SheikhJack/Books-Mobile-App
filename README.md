@@ -63,7 +63,7 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 
 ## 🤓 Author(s)
 
-**Festus Babajide Olusegun**
+**Kealeboga K Mosate**
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
 ## 🔖 LICENCE
